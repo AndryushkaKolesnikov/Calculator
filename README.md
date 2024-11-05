@@ -1,3 +1,4 @@
+This project is implemented using the C++ programming language and the Qt library.
 This calculator offers a variety of functions:
 1. An integer calculator with basic arithmetic operations.
 2. The ability to calculate the difference between two dates in days.
